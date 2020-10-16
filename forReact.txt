@@ -1,0 +1,1 @@
+1. react-route-dom: giữ cho giao diện của ứng dụng phù hợp với URL trên trình duyệt. // / thay vì /index.html 
