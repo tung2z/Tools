@@ -1,0 +1,5 @@
+1. ElasticSearch ($)
+
+2. Algolia ($)
+
+3. Fuse.js

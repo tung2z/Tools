@@ -1,0 +1,2 @@
+1. Nomalize.css để tạo tính nhất quán cho css trên các trình duyệt khác nhau, tốt hơn mặc định.
+
